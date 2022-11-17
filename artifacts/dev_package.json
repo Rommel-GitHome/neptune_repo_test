@@ -1,0 +1,50 @@
+{
+	"id": "41aae8e2-ee4a-ed11-b495-0022489bd88a",
+	"createdAt": "2022-10-13T12:02:26.133Z",
+	"createdBy": "qateam",
+	"git": {
+		"targetServers": [],
+		"remote": "https://github.com/Rommel-GitHome/neptune_repo_test.git"
+	},
+	"name": "Package 1567",
+	"description": null,
+	"ver": "22.11.17.1635",
+	"enableCICD": true,
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [
+		{
+			"id": "c23f20bb-1e4e-ed11-819a-000d3a655ab9",
+			"name": "1534_rommel_nopwa_2_",
+			"description": null
+		},
+		{
+			"id": "08d881d1-9666-ed11-9f60-000d3ada9def",
+			"name": "Test Launchpad",
+			"description": null
+		}
+	],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": []
+}
