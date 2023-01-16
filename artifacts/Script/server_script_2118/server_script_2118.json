@@ -1,0 +1,20 @@
+{
+	"id": "f0881b70-aef3-4ae5-b1ce-49ff5fce4807",
+	"createdAt": "2023-01-16T10:00:35.789Z",
+	"createdBy": "testcafe",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [],
+	"apis": [],
+	"name": "server_script_2118",
+	"ver": "23.1.16.100",
+	"description": null,
+	"content": "console.log(\"2118\");",
+	"useAsGlobalScript": false,
+	"transpiledContent": null,
+	"lastRunSuccessful": false,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "a8bf9b26-d620-4dcb-b6ea-abb24eea3642",
+	"package": "a4fa59b7-54d8-494b-9fe5-b8c05ed4fd50"
+}

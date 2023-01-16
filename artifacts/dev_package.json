@@ -1,22 +1,33 @@
 {
-	"id": "41aae8e2-ee4a-ed11-b495-0022489bd88a",
-	"createdAt": "2022-10-13T12:02:26.133Z",
-	"createdBy": "qateam",
+	"id": "a4fa59b7-54d8-494b-9fe5-b8c05ed4fd50",
+	"createdAt": "2023-01-16T09:57:58.383Z",
+	"createdBy": "testcafe",
 	"git": {
-		"targetServers": [],
-		"remote": "https://github.com/Rommel-GitHome/neptune_repo_test.git"
+		"remote": "https://github.com/Rommel-GitHome/neptune_repo_test"
 	},
-	"name": "Package 1567",
+	"name": "Package 2218",
 	"description": null,
-	"ver": "22.11.17.1635",
+	"ver": "23.1.16.959",
 	"enableCICD": true,
 	"apps": [],
 	"api": [],
 	"odataSource": [],
 	"odataMock": [],
 	"dictionary": [],
-	"jsclass": [],
-	"jsscript_group": [],
+	"jsclass": [
+		{
+			"id": "f0881b70-aef3-4ae5-b1ce-49ff5fce4807",
+			"name": "server_script_2118",
+			"description": null
+		}
+	],
+	"jsscript_group": [
+		{
+			"id": "a8bf9b26-d620-4dcb-b6ea-abb24eea3642",
+			"name": "project_2118",
+			"description": null
+		}
+	],
 	"theme": [],
 	"pdf": [],
 	"rulesengine": [],
@@ -25,18 +36,7 @@
 	"api_group": [],
 	"tile": [],
 	"category": [],
-	"launchpad": [
-		{
-			"id": "c23f20bb-1e4e-ed11-819a-000d3a655ab9",
-			"name": "1534_rommel_nopwa_2_",
-			"description": null
-		},
-		{
-			"id": "08d881d1-9666-ed11-9f60-000d3ada9def",
-			"name": "Test Launchpad",
-			"description": null
-		}
-	],
+	"launchpad": [],
 	"certificates": [],
 	"role": [],
 	"systems": [],
@@ -46,5 +46,6 @@
 	"script_scheduler": [],
 	"wf_definition": [],
 	"connector": [],
-	"events": []
+	"events": [],
+	"media_library": []
 }
