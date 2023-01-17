@@ -24,9 +24,19 @@
 			"id": "236f14fe-2805-405c-b4e5-7f33249992d9",
 			"name": "script_2",
 			"description": null
+		},
+		{
+			"id": "22a7e359-95fc-4eae-9d1a-e10a3f98b80c",
+			"name": "test",
+			"description": null
 		}
 	],
 	"jsscript_group": [
+		{
+			"id": "e8dc5db5-f14c-461d-ac99-9b4f5501914d",
+			"name": "NewProject2118",
+			"description": null
+		},
 		{
 			"id": "a8bf9b26-d620-4dcb-b6ea-abb24eea3642",
 			"name": "project_2118",
